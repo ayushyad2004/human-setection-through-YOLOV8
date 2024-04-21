@@ -1,0 +1,4 @@
+TECHNOLOGIES USED:
+YOLOv8 Model: Utilizes the YOLOv8 architecture for accurate and real-time human detection in images and videos.
+Ultraalytics Integration: Seamlessly integrates with the Ultraalytics library, providing robust tools for training, evaluation, and inference of object detection models.
+Python Implementation: Entire codebase is written in Python, ensuring ease of use and compatibility across platforms.
